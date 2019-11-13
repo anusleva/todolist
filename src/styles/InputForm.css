@@ -1,0 +1,16 @@
+input {
+    width: 60%;
+    height: 20px;
+}
+
+.buttonSubmit {
+    width: 100px;
+    height: 25px;
+}
+
+div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
